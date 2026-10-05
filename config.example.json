@@ -1,0 +1,16 @@
+{
+  "enabled": true,
+  "telegram_bot_token": "PUT-YOUR-BOTFATHER-TOKEN-HERE",
+  "owner_chat_id": null,
+  "listen_port": 8787,
+  "event_secret": null,
+  "claude_oauth_token": "",
+  "summarize_with_llm": false,
+  "inbound_enabled": false,
+  "claude_home": "",
+  "desktop_process_marker": "AnthropicClaude",
+  "desktop_grace_seconds": 45,
+  "desktop_poll_seconds": 20,
+  "notify_level": "all",
+  "quiet_hours": null
+}

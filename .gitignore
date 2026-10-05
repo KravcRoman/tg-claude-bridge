@@ -1,0 +1,9 @@
+config.json
+state.json
+spool.jsonl*
+bot.log
+*.bak-*
+*.tmp
+__pycache__/
+.idea/
+private/
